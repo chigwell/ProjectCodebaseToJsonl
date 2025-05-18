@@ -5,7 +5,7 @@ with open('README.md', encoding='utf-8') as f:
 
 setup(
     name='ProjectCodebaseToJsonl',
-    version='0.0.1',
+    version='2025.5.181247',
     author='Eugene Evstafev',
     author_email='chigwel@gmail.com',
     description='A package to convert project codebases into JSONL format for GPT model training.',
